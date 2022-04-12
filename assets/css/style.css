@@ -8,7 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Start of header*/
 
 .header {
     padding: 20px;
@@ -25,9 +24,6 @@ body {
     color: #d9dcd6;
 }
 
-/*End header*/
-
-/*Start of navbar*/
 
 .header nav {
     padding-top: 15px;
@@ -50,9 +46,6 @@ a {
     text-decoration: none;
 }
 
-/*End of header & navbar*/
-
-/*fonts*/
 
 .gill-font{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -75,7 +68,7 @@ p {
     background-position: center;
 }
 
-/*Main Content - 2 Sections*/
+
 
 .content-section {
     width: 75%;
@@ -137,7 +130,6 @@ p {
     max-width: 150px;
 }
 
-/* End of main */
 
 .footer {
     padding: 30px;
